@@ -1,0 +1,3 @@
+conda install -c conda-forge cartopy
+我使用的是windows下的anconda环境；可能会报错，如果错误中有PyQt5，
+可能需要尝试:pip uninstall PyQt5 通过管理员运行 anaconda-navigator，尝试重新进入Spyder，并：conda install -c conda-forge cartopy
